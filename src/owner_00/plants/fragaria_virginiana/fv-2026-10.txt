@@ -1,0 +1,34 @@
+[stratification]
+4-8 weeks, 6-8 appears optimal
+refrigerator, not freezer
+damp sand, not damp paper towel. damp paper towel molds
+in a plastic zipper bag to ensure moisture retention, then in two nested envelopes to ensure darkness
+750 seeds stratified in batches of 250
+
+[batch 1]
+germinations: ~30
+survivors: 0
+target: lawn
+substrate: lawn clay
+distribution: sphagnum moss & fuller's earth glue
+irrigation: watering can, treated distilled water
+failure reason: substrate, calcium tipburn in earliest true leaves
+conclusion: prepare fv elsewhere and rehabilitate lawn clay
+
+[batch 2]
+germinations: ~225
+survivors: ~30
+target: 70-cell seed starter trays
+substrate: coconut coir washed with distilled water until runoff EC ~2 uS/cm
+irrigation: wick
+failure reason: hand selection
+conclusion: this is the stock i'm still working with through various transplants
+
+[batch 3]
+germinations: 0?
+survivors: 0
+target: raised garden bed
+substrate: raised bed soil
+irrigation: misters
+failure reason: heat domes / climate
+conclusion: establish fv outdoors in spring or fall

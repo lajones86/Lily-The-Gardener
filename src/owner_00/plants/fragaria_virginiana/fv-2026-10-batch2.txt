@@ -1,0 +1,36 @@
+[nutrient introduction]
+0. high degree of germination with true leaves
+1. starter plugs were washed to EC 400 uS/cm
+2. starter wick reservoir was filled with EC 400 uS/cm
+3. yellowing due to root rot due to wick irrigation
+4. removed cells from reservoir and wick
+5. performed manual irrigation with nutrient solution until transplant
+transplant targets: hydroponic, terra cotta pots, raised garden bed
+
+[hydroponic]
+transplants: ~9
+survivors: ~9
+target: 6x 3-inch net pots
+substrate: mix(70% / 30%)(coconut coir / perlite)
+irrigation: drain-to-reservoir (pump: NKP-DC-S10B 12V peristaltic) and (distribution: black silicone tubing loop)
+selection criteria: (largest greenest leaves) and (strongest stems)
+method: 1-2 selected plants transplanted, with supporting coir, to target net pot
+
+[terra cotta pots]
+transplants: ~21
+survivors: ~21
+target: 4x 6.7-inch terra cotta azalea pots
+substrate: potting soil
+irrigation: blumat classic
+selection criteria: (largest greenest leaves) and (strongest stems) after (hydroponic selection and transplant completed)
+method: blumat classic in center of pot, 4-6 baby crowns arranged around it
+
+[raised garden bed]
+transplants: ~195
+survivors: 0
+target: raised garden bed
+substrate: raised bed soil
+irrigation: blumat classic
+selection criteria: living plant not in hydroponic net pot or terra cotta pot
+failure reason: roots not prepared for migration to soil
+conclusion: soilless roots need additional support moving to soil including mycorrhizal fungi
