@@ -19,6 +19,8 @@ for rd in load_recursive:
                     for line in f:
                         if line.strip() != "":
                             prompt += (line)
+                if not prompt.endswith("\n"):
+                    prompt += "\n"
                 prompt += ("= END entry node \"%s\" =\n" % i)
         prompt += ("== END root node \"%s\" ==\n" % root)
 

@@ -1,0 +1,1 @@
+preferred unit of measurement for EC: microsiemens per centimeter (uS/cm)
