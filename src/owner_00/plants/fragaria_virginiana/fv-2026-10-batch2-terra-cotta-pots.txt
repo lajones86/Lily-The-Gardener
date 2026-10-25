@@ -1,0 +1,27 @@
+[ eve ]
+crowns: 4
+status: transplanted to outdoor raised bed
+method: broke away terra cotta pot to preserve root structure
+irrigation: initially bottle-based blumat carrots for quick deployment to key support areas that was then removed at blumat teardown time
+light: natural
+conclusion: thriving outdoors with 9 runners pinned going into fall
+
+[ lilith ] 
+crowns: ~6
+status: still in terra cotta
+location: lower-intensity grow bin at an alternate site
+irrigation: blumat classic
+light: 4x clip-on LED light (5W each), 16H on / day
+conclusion: thriving and producing flowers, with some successful pollination
+
+[ SU6 ]
+name deconstruction: (Strawberry, Unnamed, 6 Crowns)
+status: still in terra cotta, late in ICU stay, near full recovery
+irrigation: blumat classic
+reason for icu stay: exhaust failure in primary grow cabinet that has since been repaired and improved
+
+[ SU7 ]
+name deconstruction: (Strawberry, Unnamed, 7 Crowns)
+status: still in terra cotta, early in ICU stay, stable
+irrigation: blumat classic
+reason for icu stay: depleted potting soil. this is the one that stayed in the high-intensity cabinet even getting through the exhaust failure

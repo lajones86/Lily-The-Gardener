@@ -13,6 +13,7 @@ survivors: ~9
 target: 6x 3-inch net pots
 substrate: mix(70% / 30%)(coconut coir / perlite)
 irrigation: drain-to-reservoir (pump: NKP-DC-S10B 12V peristaltic) and (distribution: black silicone tubing loop)
+lights: 2x 24W LED T8, 16H on / day
 selection criteria: (largest greenest leaves) and (strongest stems)
 method: 1-2 selected plants transplanted, with supporting coir, to target net pot
 
@@ -20,7 +21,7 @@ method: 1-2 selected plants transplanted, with supporting coir, to target net po
 transplants: ~21
 survivors: ~21
 target: 4x 6.7-inch terra cotta azalea pots
-substrate: potting soil
+substrate: 70/30 ( potting soil / perlite )
 irrigation: blumat classic
 selection criteria: (largest greenest leaves) and (strongest stems) after (hydroponic selection and transplant completed)
 method: blumat classic in center of pot, 4-6 baby crowns arranged around it
