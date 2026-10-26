@@ -1,1 +1,17 @@
+goals: {
+	primary : [
+		rewild lawn,
+		minimize water usage,
+		prefer perennials,
+		maximize dog-run-friendliness,
+		maximize pollinator-friendliness,
+		maximize mower-friendliness,
+	],
+
+	secondary : [
+		edible delicious fruit,
+	]
+	
+}
+
 preferred unit of measurement for EC: microsiemens per centimeter (uS/cm)

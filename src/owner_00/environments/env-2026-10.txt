@@ -2,3 +2,5 @@
 location: home office
 lighting: (20W LED, 16 hr / day) and (~15W LED, 12 hr / day)
 other: open air, gentle fan, low stress
+
+[

@@ -1,0 +1,29 @@
+water source : {
+	name : Municipal Tap Water,
+	EC : ~320 uS/cm,
+	pH : ~9.2,
+	chloramines: yes,
+	treatments-available : {
+		reverse-osmosis : {
+			limit : 15-29 liters,
+			system: RO Buddie,
+			stages : 3.5,
+			stage_1 : Sediment Filter,
+			stage_2 : Carbon Filter,
+			stage_2.5 : Activated Carbon Filter,
+			stage_3.5 : Reverse Osmosis Filter,
+			EC :  15-30 uS/cm,
+			pH : ~9.2,
+			additional-treatments-available : {
+				H2O2 : {
+					concentration : 6%,
+					sanitize-water : [ standard post-filtration treatment, 0.42-0.83 mL/L ]
+				}
+				HOCl : {
+					concentration: 500 ppm,
+					prevent-gravity-blumat-biofilm : [ prior to adding to blumat gravity reservoir, 2-4mL/L ]
+				}
+			}
+		}
+	}
+}
